@@ -1,4 +1,4 @@
-numpy==1.26.0b1
+numpy
 requests
 pandas
 bs4
@@ -6,3 +6,4 @@ flask
 prophet
 scikit-learn
 matplotlib
+gunicorn==20.1.0
