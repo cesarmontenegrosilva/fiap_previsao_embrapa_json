@@ -46,7 +46,7 @@ This project is a Flask-based API that collects, processes, and predicts wine sa
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/cesarmontenegrosilva/fiap_previsao_embrapa_json
 Navigate to the project directory:
 
 bash
