@@ -6,4 +6,4 @@ flask
 prophet
 scikit-learn
 matplotlib
-gunicorn==20.1.0
+gunicorn
